@@ -1,0 +1,97 @@
+body{
+    background-color: black;
+    
+}
+h1{
+    color:red;
+    font-style: italic;
+    text-align: center;
+    
+    
+}
+p{
+    color: red;
+    font-style: italic;
+    text-align: center;
+}
+.css_bt{
+    background: #000;
+    text-align: center;
+    align-items: center;
+    
+}
+.dwipcmd_bt{
+    margin: 5px;
+    background: red;
+    color: #000;
+    text-align: center;
+    
+    
+    border-radius: 10px 50px;
+    border:solid 25px red;
+    
+}
+.ipgui_bt{
+    background: red;
+    color: #000;
+    text-align: center;
+    
+    margin: 5px;
+    border-radius: 10px 50px;
+    border:solid 25px red;
+    
+}
+.passgen_bt{
+    background: red;
+    color: #000;
+    text-align: center;
+   
+    margin: 5px;
+    border-radius: 10px 50px;
+    border:solid 25px red;
+    
+}
+.cimpx_bt{
+    background: red;
+    color: #000;
+    text-align: center;
+   
+    margin: 5px;
+    border-radius: 10px 50px;
+    border:solid 25px red;
+    
+}
+.apk_bt{
+    background: red;
+    color: #000;
+    text-align: center;
+    border: 0;
+    margin: 5px;
+    border-radius: 10px 50px;
+    border:solid 25px red;
+    
+}
+.social_css{
+    color:black;
+    background:black;
+}
+
+.css_insta{
+    color: #000;
+    background: red;
+    text-align: center;
+    border:solid 25 red;
+    border-radius:10px 50px ;
+    margin: 1px;
+    border: 0;
+    
+}
+.css_github{
+    color: #000;
+    background: red;
+    text-align: center;
+    border:solid 25 red;
+    border-radius:10px 50px ;
+    margin: 1px;
+    border: 0;
+}
