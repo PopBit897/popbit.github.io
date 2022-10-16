@@ -71,4 +71,27 @@ p{
     border:solid 25px red;
     
 }
+.social_css{
+    color:black;
+    background:black;
+}
 
+.css_insta{
+    color: #000;
+    background: red;
+    text-align: center;
+    border:solid 25 red;
+    border-radius:10px 50px ;
+    margin: 1px;
+   
+    
+}
+.css_github{
+    color: #000;
+    background: red;
+    text-align: center;
+    border:solid 25 red;
+    border-radius:10px 50px ;
+    margin: 1px;
+   
+}
