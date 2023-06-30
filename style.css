@@ -25,8 +25,9 @@ p{
     background: #000;
     text-align: center;
     align-items: center;
-    width: 300px;
-    padding: 100px;
+    width: 900px;
+    padding: 50px;
+    left: 100%;
     
 }
 .dwipcmd_bt{
@@ -113,4 +114,12 @@ p{
     border-radius: 10px 50px;
     border:solid 25px red;
 
+}
+.bt_dwn{
+    background: #000;
+    text-align: center;
+    align-items: center;
+    width: 200%;
+    padding: 2px;
+    
 }
