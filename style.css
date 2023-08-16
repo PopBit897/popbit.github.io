@@ -63,6 +63,13 @@ h2{
     
  
 }
+#img_id{
+    border-radius: 50px;
+    border-style: double;
+    padding: 2%;
+
+
+}
 #Info{
     background-color:black;
     color: brown;
