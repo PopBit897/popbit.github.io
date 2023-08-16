@@ -1,6 +1,16 @@
 body{
-    background-color: black;
+    background-color: rgb(3, 3, 3);
+    margin: auto;
+    padding: 1%;
+
     
+}
+hr{
+   border-color: brown;
+   border-radius: 50px;
+   border-style:dotted;
+   border-width: 3px;
+   border-spacing: 30%;
 }
 h1{
     color:red;
@@ -16,110 +26,141 @@ h2{
     
     
 }
+#GitHub{
+    background-color:black;
+    color: brown;
+    font-style: oblique;
+    border-radius: 50px;
+    border-color: brown;
+    border-style: dotted;
+    border-width: 3px;
+}
+#download{
+    background-color:black;
+    color: brown;
+    font-style: oblique;
+    border-radius: 50px;
+    border-color: brown;
+    border-style: dotted;
+    border-width: 3px;
+}
+#dow-yt{
+    background-color:black;
+    color: brown;
+    font-style: oblique;
+    border-radius: 50px;
+    border-color: brown;
+    border-style: dotted;
+    border-width: 3px; 
+
+}
+.img{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+}
+#Info{
+    background-color:black;
+    color: brown;
+    font-style: oblique;
+    border-radius: 50px;
+    border-color: brown;
+    border-style: dotted;
+    border-width: 3px;
+}
 p{
     color: red;
     font-style: italic;
     text-align: center;
 }
-.css_bt{
-    background: #000;
-    text-align: center;
-    align-items: center;
-    width: 900px;
-    padding: 50px;
-    left: 100%;
-    
-}
+
 .dwipcmd_bt{
-    margin: 5px;
-    background: red;
-    color: #000;
-    text-align: center;
-    
-    
-    border-radius: 10px 50px;
-    border:solid 25px red;
-    
+    background-color:black;
+    color: brown;
+    font-style: oblique;
+    border-radius: 50px;
+    border-color: brown;
+    border-style: dotted;
+    border-width: 6px; 
+    font-size: medium;
 }
 .ipgui_bt{
-    background: red;
-    color: #000;
-    text-align: center;
-    
-    margin: 5px;
-    border-radius: 10px 50px;
-    border:solid 25px red;
-    
+    background-color:black;
+    color: brown;
+    font-style: oblique;
+    border-radius: 50px;
+    border-color: brown;
+    border-style: dotted;
+    border-width: 6px; 
+    font-size: medium;
 }
 .passgen_bt{
-    background: red;
-    color: #000;
-    text-align: center;
-   
-    margin: 5px;
-    border-radius: 10px 50px;
-    border:solid 25px red;
-    
+    background-color:black;
+    color: brown;
+    font-style: oblique;
+    border-radius: 50px;
+    border-color: brown;
+    border-style: dotted;
+    border-width: 6px; 
+    font-size: medium;
 }
 .cimpx_bt{
-    background: red;
-    color: #000;
-    text-align: center;
-   
-    margin: 5px;
-    border-radius: 10px 50px;
-    border:solid 25px red;
+    background-color:black;
+    color: brown;
+    font-style: oblique;
+    border-radius: 50px;
+    border-color: brown;
+    border-style: dotted;
+    border-width: 6px; 
+    font-size: medium;
     
 }
 .apk_bt{
-    background: red;
-    color: #000;
-    text-align: center;
-    border: 0;
-    margin: 5px;
-    border-radius: 10px 50px;
-    border:solid 25px red;
+    background-color:black;
+    color: brown;
+    font-style: oblique;
+    border-radius: 50px;
+    border-color: brown;
+    border-style: dotted;
+    border-width: 6px; 
+    font-size: medium;
     
-}
-.social_css{
-    color:black;
-    background:black;
 }
 
-.css_insta{
-    color: #000;
-    background: red;
-    text-align: center;
-    border:solid 25 red;
-    border-radius:10px 50px ;
-    margin: 1px;
-   
+#css_home{
+    background-color:black;
+    color: brown;
+    font-style: oblique;
+    border-radius: 50px;
+    border-color: brown;
+    border-style: dotted;
+    border-width: 3px; 
+    font-size: medium;
     
 }
-.css_github{
-    color: #000;
-    background: red;
-    text-align: center;
-    border:solid 25 red;
-    border-radius:10px 50px ;
-    margin: 1px;
-   
-}
+
 .yt_bt{
-    background: red;
-    color: #000;
-    text-align: center;
-    border: 0;
-    margin: 5px;
-    border-radius: 10px 50px;
-    border:solid 25px red;
+    background-color:black;
+    color: brown;
+    font-style: oblique;
+    border-radius: 50px;
+    border-color: brown;
+    border-style: dotted;
+    border-width: 6px; 
+    font-size: medium;
 
 }
 .bt_dwn{
-    background: #000;
-    text-align: center;
-    align-items: center;
-    width: 200%;
-    padding: 2px;
+    background-color:black;
+    color: brown;
+    font-style: oblique;
+    border-radius: 50px;
+    border-color: brown;
+    border-style: dotted;
+    border-width: 6px; 
+    font-size: medium;
     
 }
