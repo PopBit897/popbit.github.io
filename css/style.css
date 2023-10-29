@@ -1,0 +1,85 @@
+body{
+    display: block;
+    background-color: beige;
+    color:darkolivegreen;
+}
+h1{
+    text-align: center;
+}
+hr{
+    border: 50%;
+    border-radius: 50%;
+    border-style: dotted;
+    background-color: darkolivegreen;
+}
+a{
+    color: darkolivegreen;
+    text-decoration:wavy;
+    width: 10px;
+    padding: auto;
+}
+p{
+    
+    text-align: center;
+}
+span{
+    color: brown;
+}
+.d_box{
+    display: flex;
+    text-align: center;
+    
+}
+#yt{
+    border-radius:20px;
+    border:0px;
+    background-color:beige ;
+    color: darkolivegreen;
+}
+#cimpx{
+    border-radius:20px;
+    border:0px;
+    background-color:beige ;
+    color: darkolivegreen;
+}
+#ipGUI{
+    border-radius:20px;
+    border:0px;
+    background-color:beige ;
+    color: darkolivegreen;
+}
+#ip{
+    border-radius:20px;
+    border:0px;
+    background-color:beige ;
+    color: darkolivegreen;
+}
+#pass{
+    border-radius:20px;
+    border:0px;
+    background-color:beige ;
+    color: darkolivegreen;
+}
+#pybt{
+    border-radius:20px;
+    border:0px;
+    background-color:beige ;
+    color: darkolivegreen;
+}
+#tr_bt{
+    border-radius:20px;
+    border:0px;
+    background-color:beige ;
+    color: darkolivegreen;
+}
+.img{
+  
+    text-align: center;
+}
+#logo{
+    border: 10px;
+    border-radius: 50px;
+    border-style:double;
+    background-color:beige;
+    color:crimson;
+}
