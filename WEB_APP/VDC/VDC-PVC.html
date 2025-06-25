@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>V.D.C- voltage drop calculator PVC</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/jquery-3.7.1.min.js"></script>
+    <script src="js/main.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+</head>
+<body>
+    <div id="box-up">
+        <a href="info-En-google.html" ><span class="material-icons">
+            info
+            </span></a>
+        <a id="GitHub" href="https://github.com/PopBit897"><img src="img_GitHub/GitHub-Logos/GitHub-Logos/GitHub_Logo.png" alt="GitHub"></a>
+    
+
+    </div>
+    <h1 id="title">V.D.C- voltage drop calculator</h1>
+
+    <div id="box-1">
+
+        <p>Watt(Kw):
+        </p>
+        <input type="text"  id="watt">
+        <p>Volt:</p>
+        <input type="text"  id="volt">
+        <p>Cable length(Km:type float 0.56):</p>
+        <input type="text"  id="cable">
+        <p>Power factor:</p>
+        <input type="text"  id="pf">
+        <p>Ru:</p>
+        <input type="text"  id="Ru">
+        <p>Xu:</p>
+        <input type="text"  id="Xu">
+ 
+
+    </div>
+    <h2 id="space">
+
+
+
+    </h2>
+    <button  id="bt_ok" type="button" onclick="cal()"><img src="img_icon_google/calculate_24dp.svg" alt=""></button>
+    <button  id="bt_dell" type="button" onclick="dell()"><img src="img_icon_google/clear_24dp.svg" alt=""></button>
+    
+    <div id="Box-res">
+        <p id="txt_res"></p>
+        <p id="res"></p>
+    </div>
+    
+</body>
+</html>
